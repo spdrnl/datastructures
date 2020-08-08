@@ -1,1 +1,1 @@
-Sketches of some datastructures
+Sketches of some data structures
